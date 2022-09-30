@@ -1,14 +1,14 @@
 {
-  "name": "user-agent-parse",
+  "name": "@sunxdd/user-agent",
   "description": "simple, no deps browser user-agent string parser",
-  "version": "0.1.12",
+  "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "git@github.com:jujhars13/node-user-agent-parse.git"
+    "url": "git@github.com:55808113/user-agent.git"
   },
   "author": {
-    "name": "Jujhar Singh",
-    "email": "jujhar@jujhar.com"
+    "name": "sunxdd",
+    "email": "55808113@qq.com"
   },
   "main": "index",
   "engines": {
